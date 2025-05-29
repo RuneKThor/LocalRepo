@@ -1,0 +1,35 @@
+[1mdiff --git a/cbhdbhsdcbhbd b/cbhdbhsdcbhbd[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e496aa8[m
+[1m--- /dev/null[m
+[1m+++ b/cbhdbhsdcbhbd[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m[1mdiff --git a/spd.c b/spd.c[m[m
+[32m+[m[32m[1mindex f9eec05..95cef56 100644[m[m
+[32m+[m[32m[1m--- a/spd.c[m[m
+[32m+[m[32m[1m+++ b/spd.c[m[m
+[32m+[m[32m[36m@@ -3,4 +3,5 @@[m [mint main(){[m[m
+[32m+[m[32m     int a,b,sum;[m[m
+[32m+[m[32m     printf("Enter Twoo ");[m[m
+[32m+[m[32m     return 0;[m[m
+[32m+[m[32m[32m+[m[32m    djscbhdbhsdcbhbd;[m[m
+[32m+[m[32m }[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[1mdiff --git a/spd.c b/spd.c[m
+[1mindex f9eec05..fcfc739 100644[m
+[1m--- a/spd.c[m
+[1m+++ b/spd.c[m
+[36m@@ -1,6 +1,7 @@[m
+ #include<stdio.h>[m
+ int main(){[m
+     int a,b,sum;[m
+[31m-    printf("Enter Twoo ");[m
+[32m+[m[32m    printf("Enter Two "); //djscbhdbhsdcbhbd[m
+     return 0;[m
+[32m+[m[41m   [m
+ }[m
+\ No newline at end of file[m
+[1mdiff --git a/spd.exe b/spd.exe[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a67c664[m
+Binary files /dev/null and b/spd.exe differ
